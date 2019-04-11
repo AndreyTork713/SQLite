@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SQLite_1", "SQLite_1\SQLite_1.pyproj", "{886AB06E-EB77-45F2-8305-407393D4DD36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{886AB06E-EB77-45F2-8305-407393D4DD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886AB06E-EB77-45F2-8305-407393D4DD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC85B42D-F67F-4BD9-8CC9-4CB87B5CA506}
+	EndGlobalSection
+EndGlobal
