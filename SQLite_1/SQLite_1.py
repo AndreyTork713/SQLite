@@ -18,7 +18,7 @@ print(results1)
 #***********************************
 #********** ЗАПИСЬ В БАЗУ **********
 # Делаем INSERT запрос к базе данных, используя обычный SQL-синтаксис
-cursor.execute("insert into Artist values (Null,'Aagrh!')")
+cursor.execute("INSERT INTO Artist VALUES (Null,'Aagrh!')")
 # Если мы не просто читаем, но и вносим изменения в базу данных - необходимо сохранить транзакцию
 conn.commit()
 
